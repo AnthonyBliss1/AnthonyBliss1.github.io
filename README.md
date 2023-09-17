@@ -3,7 +3,7 @@
 #### Technical Skills: Microsoft Excel, SQL, Python, Tableau
 
 ## Education
-  - B.A. Economics | University of Maryland, Baltimore County
+  B.A. Economics | University of Maryland, Baltimore County
 
 ## Certifications
   - Tableau Desktop Specialist
