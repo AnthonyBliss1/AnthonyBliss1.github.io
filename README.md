@@ -32,5 +32,6 @@ such as Meta, Cisco, Albertsons daily
 
 ## Projects
 ### OPIS Benchmark Diff Analysis
+Effectively extracted pricing data from multiple sources and formats using **Python**. Created visualizations for storytellind and analysis using **Matplotlib**. Leveraged the data collected to develop a pricing differential based on an OPIS Average benchmark for 87 RFG Gasoline out of Baltimore. 
 
 ![OPIS Prices](/assets/OPIS_Low_vs_Con_Avg.png)
