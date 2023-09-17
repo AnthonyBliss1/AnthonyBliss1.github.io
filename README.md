@@ -2,10 +2,10 @@
 
 #### Technical Skills: Microsoft Excel, SQL, Python, Tableau
 
-### Education
+## Education
   - B.A. Economics | University of Maryland, Baltimore County
 
-### Work Experience
+## Work Experience
 **Operations Analyst @ Standard Petroleum Logistics (_Sept 2022 - Present_)**
   - Compile data to analyze market trends and influence pricing strategies
   - Create queries and specialized reports to facilitate business operations
@@ -29,4 +29,5 @@ such as Meta, Cisco, Albertsons daily
 
 ## Projects
 ### OPIS Benchmark Diff Analysis
+
 
