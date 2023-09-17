@@ -5,6 +5,9 @@
 ## Education
   - B.A. Economics | University of Maryland, Baltimore County
 
+## Certifications
+  - Tableau Desktop Specialist
+
 ## Work Experience
 **Operations Analyst @ Standard Petroleum Logistics (_Sept 2022 - Present_)**
   - Compile data to analyze market trends and influence pricing strategies
@@ -29,5 +32,3 @@ such as Meta, Cisco, Albertsons daily
 
 ## Projects
 ### OPIS Benchmark Diff Analysis
-
-
