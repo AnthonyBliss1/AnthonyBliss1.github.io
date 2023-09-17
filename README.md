@@ -33,4 +33,4 @@ such as Meta, Cisco, Albertsons daily
 ## Projects
 ### OPIS Benchmark Diff Analysis
 
-![OPIS Low vs Con Avg](/assets/OPIS Low vs Con Avg.png)
+![OPIS Prices](/assets/Opislowvsconavg.png)
