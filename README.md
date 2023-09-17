@@ -3,7 +3,7 @@
 #### Technical Skills: Microsoft Excel, SQL, Python, Tableau
 
 ## Education
-  - B.A. Economics | University of Maryland, Baltimore County
+B.A. Economics | University of Maryland, Baltimore County
 
 ## Certifications
   - Tableau Desktop Specialist
@@ -32,6 +32,12 @@ such as Meta, Cisco, Albertsons daily
 
 ## Projects
 ### OPIS Benchmark Diff. Analysis
-Effectively extracted pricing data from multiple sources in different formats using **Python**. Created visualizations for storytelling and analysis using **Matplotlib**. Leveraged the data collected to develop a pricing differential based on an OPIS Average benchmark for 87 RFG (10% Ethanol) out of Baltimore. 
+Effectively extracted large amounts of pricing data from multiple sources in different formats using **Python**. Created visualizations for storytelling and analysis using **Matplotlib**. Leveraged the data collected to develop a pricing differential based on an OPIS Average benchmark for 87 RFG (10% Ethanol) out of Baltimore. 
 
 ![OPIS Prices](/assets/OPIS_Low_vs_Con_Avg.png)
+
+### KPI & Business Operation Dashboards
+Created custom processes to extract and clean internal business data in **Microsoft Access** and **Excel**. Use queried data to create and maintain KPI Tracking BI Dashboard and Customer AR Dashboard for Business Operations.
+
+### Improved VA Wholesale Fuel Tax Reporting
+Developed process to query specific data for month end reporting and built a custom Macro-Workbook in **Excel** which formats data set to properly fit reporting requirements for electronic uploads. Created SOP outlining entire process and troubleshooting scenarios in detail. 
