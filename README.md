@@ -1,5 +1,6 @@
 # Aspiring Data Analyst
-  #### Technical Skills: Microsoft Excel, SQL, Python, Tableau
+
+#### Technical Skills: Microsoft Excel, SQL, Python, Tableau
 
 ### Education
   - B.A. Economics | University of Maryland, Baltimore County
@@ -25,3 +26,7 @@ revenue for hundreds of resources a week
   - Helped manage million-dollar contracts with high profile clients
 such as Meta, Cisco, Albertsons daily
   - Worked cross-functionally on large scale projects
+
+## Projects
+### OPIS Benchmark Diff Analysis
+
