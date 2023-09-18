@@ -39,5 +39,9 @@ Effectively extracted pricing data from multiple sources in different formats us
 ### KPI & Business Operation Dashboards
 Created custom processes to extract and clean internal business data in **Microsoft Access** and **Excel**. Use queried data to create and maintain KPI Tracking Dashboard and Customer AR Dashboard for Business Operations in **Tableau**.
 
+![Business Intelligence](/assets/BI.jpeg)
+
 ### Improved VA Wholesale Fuel Tax Reporting
 Developed process to query specific data for month end reporting and built a custom Macro-Workbook in **Excel** which formats extracted data to properly fit reporting requirements for electronic uploads. Created SOP outlining entire process and troubleshooting scenarios in detail. 
+
+![Taxes](/assets/tax.png)
