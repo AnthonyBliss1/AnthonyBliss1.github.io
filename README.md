@@ -1,4 +1,4 @@
-# Aspiring Data Analyst
+# Analyst
 
 #### Technical Skills: Microsoft Excel, SQL, Python, Tableau
 
