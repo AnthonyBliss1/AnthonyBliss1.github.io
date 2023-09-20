@@ -42,6 +42,6 @@ Created custom processes to extract and clean internal business data in **Micros
 ![Business Intelligence](/assets/BI.jpeg)
 
 ### Improved VA Wholesale Fuel Tax Reporting
-Developed process to query specific data for month end reporting and built a custom Macro-Workbook in **Excel** which formats extracted data to properly fit reporting requirements for electronic uploads. Created SOP outlining entire process and troubleshooting scenarios in detail. 
+Developed process to query data for month end reporting and built a custom Macro-Workbook in **Excel** which formats extracted data to properly fit reporting requirements for electronic uploads. Created SOP outlining entire process and troubleshooting scenarios in detail. 
 
 ![Taxes](/assets/tax.png)
