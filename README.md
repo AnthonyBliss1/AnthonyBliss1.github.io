@@ -32,7 +32,7 @@ such as Meta, Cisco, Albertsons daily
 
 ## Projects
 ### Automated Cloud Solution for Tracking & Analyzing Pressure Readings
-Created a function in **Python** to scrape trailer pressure readings, temperatures, and "Ewon" monitor status then export data into **MySQL** cloud database. Automated the function using **AWS Products** and designed an accompanying app to view and analyze the data with **Streamlit**. Fully project summary can be found [Here](https://anthonybliss1.github.io/Cloud-Solution.github.io/)
+Created a function in **Python** to scrape trailer pressure readings, temperatures, and "Ewon" monitor status then export data into **MySQL** cloud database. Automated the function using **AWS Products** and designed an accompanying app to view and analyze the data with **Streamlit**. Full project summary can be found [here](https://anthonybliss1.github.io/Cloud-Solution.github.io/).
 
 ![Cloud Solution](/assets/Cloud_Solution.jpg)
 
