@@ -31,6 +31,11 @@ such as Meta, Cisco, Albertsons daily
   - Worked cross-functionally on large scale projects
 
 ## Projects
+### Automated Cloud Solution for Tracking & Analyzing Pressure Readings
+Created a function in **Python** to scrape trailer pressure readings, temperatures, and "Ewon" monitor status then export data into **MySQL** cloud database. Automated the function using **AWS Products** and designed an accompanying app to view and analyze the data with **Streamlit**. 
+
+![Cloud Solution](/assets/Cloud_Solution.jpg)
+
 ### OPIS Benchmark Diff. Analysis
 Effectively extracted pricing data from multiple sources in different formats using **Python**. Created visualizations for storytelling and analysis using **Matplotlib**. Leveraged the data collected to develop a pricing differential based on an OPIS Average benchmark for 87 RFG (10% Ethanol) out of Baltimore. 
 
