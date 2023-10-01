@@ -10,6 +10,7 @@
 
 ## Work Experience
 **Operations Analyst @ Standard Petroleum Logistics (_Sept 2022 - Present_)**
+  - Created fully automated cloud solution for tracking and analyzing trailer pressure readings
   - Compile data to analyze market trends and influence pricing strategies
   - Create queries and specialized reports to facilitate business operations
   - Inspect and clean large datasets to create Business Intelligence
