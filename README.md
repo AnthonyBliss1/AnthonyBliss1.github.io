@@ -17,8 +17,6 @@
 dashboards and extract insight
   - Pricing research, analysis, and definition by customer to ensure
 efficient buying and selling
-  - Identified new approach to purchasing that lowered cost and
-improved margin overnight
   - Created more efficient business operations and processes
 
 **Project Operations Associate @ TEKSystems (_Aug 2021 - Feb 2022_)**
