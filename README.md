@@ -30,6 +30,11 @@ such as Meta, Cisco, Albertsons daily
   - Worked cross-functionally on large scale projects
 
 ## Projects
+### P.A.M. (Pricing Automation Module) Application
+Developed and designed an application to assist in automating teh process of sending price quotes to customers. Implemented a plethora of features including validating/activating license keys, data saving, and email customization. The application was built using **Python**. A full product description can be found [here](https://pam.lemonsqueezy.com/checkout). 
+
+![PAM](/assets/PAM.JPG)
+
 ### Automated Cloud Solution for Tracking & Analyzing Pressure Readings
 Created a function in **Python** to scrape trailer pressure readings, temperatures, and "Ewon" monitor status, then export data into **MySQL** cloud database. Automated the function using **AWS Products** and designed an accompanying app to view and analyze the data with **Streamlit**. Full project summary can be found [here](https://anthonybliss1.github.io/Cloud-Solution.github.io/).
 
