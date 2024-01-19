@@ -30,8 +30,11 @@ such as Meta, Cisco, Albertsons daily
   - Worked cross-functionally on large scale projects
 
 ## Projects
+### MMA Machine Learning Model and Web Application
+Gathered, cleaned, and created data from UFCStats.com to train a SNN model in predicting the outcomes of UFC fights. Wrapped the model in an API using Flask and deployed to Heroku where we could access it. Created a front end JS application using React to allow users to send request to the Flask backend and stored the React application in an Amazon S3 bucket. Integrated an AWS Cloudfront distribution also tied to a domain and hosted zone through Amazon Route 53. Utilized GPT Assistant through the OpenAI API to generate a written analysis of the predicted fight using  feature data and the predicted outcome from our trained model. Web app can be found [here](https://mmaaitrix.com/).
+
 ### P.A.M. (Pricing Automation Module) Application
-Developed and designed an application to assist in automating teh process of sending price quotes to customers. Implemented a plethora of features including validating/activating license keys, data saving, and email customization. The application was built using **Python**. A full product description can be found [here](https://pam.lemonsqueezy.com/checkout). 
+Developed and designed an application to assist in automating the process of sending price quotes to customers. Implemented a plethora of features including validating/activating license keys, data saving, and email customization. The application was built using **Python**. A full product description can be found [here](https://pam.lemonsqueezy.com/checkout). 
 
 ![PAM](/assets/PAM.png)
 
