@@ -36,7 +36,7 @@ Gathered, cleaned, and created data from UFCStats.com to train a SNN model in pr
 ![MMAAITRIX](/assets/logo.png)
 
 ### P.A.M. (Pricing Automation Module) Application
-Developed and designed an application to assist in automating the process of sending price quotes to customers. Implemented a plethora of features including validating/activating license keys, data saving, and email customization. The application was built using **Python**. A full product description can be found [here](https://pam.lemonsqueezy.com/checkout). 
+Developed and designed an application to assist in automating the process of sending price quotes to customers. Implemented a plethora of features including validating/activating license keys, data saving, and email customization. The application was built using **Python**. A full product description can be found [here](https://pam.lemonsqueezy.com). 
 
 ![PAM](/assets/PAM.png)
 
