@@ -9,11 +9,18 @@
   - Tableau Desktop Specialist
 
 ## Work Experience
-**Operations Analyst @ Standard Petroleum Logistics (_Sept 2022 - Present_)**
+**Market Intelligence Analyst @ Erickson Senior Living (_Nov 2023 - Present_)**
+  - Offer detailed market insights into the feasibility of new community developments
+  - Assist in qualitative and quantitative ad hoc analysis
+  - Program surveys for Cosumer Insights research in Qualtrics
+  - Create visualizations in **Tableau** and **Excel** for storytelling and analysis
+  - Developed streamline approach to collect competitor data
+
+**Operations Analyst @ Standard Petroleum Logistics (_Sept 2022 - Nov 2023_)**
   - Created fully automated cloud solution for tracking and analyzing trailer pressure readings
-  - Compile data to analyze market trends and influence pricing strategies
-  - Create queries and specialized reports to facilitate business operations
-  - Inspect and clean large datasets to create Business Intelligence
+  - Compiled data to analyze market trends and influence pricing strategies
+  - Created queries and specialized reports to facilitate business operations
+  - Inspected and cleaned large datasets to create Business Intelligence
 dashboards and extract insight
   - Pricing research, analysis, and definition by customer to ensure
 efficient buying and selling
@@ -31,7 +38,7 @@ such as Meta, Cisco, Albertsons daily
 
 ## Projects
 ### MMA Machine Learning Model and Web Application
-Collected and cleaned data from UFCStats.com to train a SNN model in predicting the outcome of UFC fights. Utilized GPT Assistant through the OpenAI API to generate a written analysis of the predicted fight using feature data and the predicted outcome from our trained model. Wrapped the model in an API using Flask and deployed to Heroku where we could access it. Created a front end JS application using React to allow users to send request to the Flask backend and stored the React application in an Amazon S3 bucket. Integrated an AWS Cloudfront distribution also tied to a domain and hosted zone through Amazon Route 53. Web app can be found [here](https://mmaaitrix.com/).
+Created multiple web scraping scripts in **Python** to collect data from UFCStats.com and store in MySQL database. Cleaned data and created additional features with **SQL** to train a SNN model in predicting the outcome of UFC fights. Utilized GPT Assistant and Code Interpreter through the OpenAI API to generate a written analysis of the predicted fight using feature data and the predicted outcome from our trained model. Wrapped the model in an API using Flask and deployed to Heroku where we could access it. Created a front end JS application using React to allow users to send request to the Flask backend and stored the React application in an Amazon S3 bucket. Integrated an AWS Cloudfront distribution also tied to a domain and hosted zone through Amazon Route 53. Web app can be found [here](https://mmaaitrix.com/).
 
 ![MMAAITRIX](/assets/logo.png)
 
