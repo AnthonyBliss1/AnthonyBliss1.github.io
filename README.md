@@ -31,7 +31,7 @@ such as Meta, Cisco, Albertsons daily
 
 ## Projects
 ### MMA Machine Learning Model and Web Application
-Collected, cleaned, and created data from UFCStats.com to train a SNN model to predict the outcomes of UFC fights. Utilized GPT Assistant through the OpenAI API to generate a written analysis of the predicted fight using  feature data and the predicted outcome from our trained model. Wrapped the model in an API using Flask and deployed to Heroku where we could access it. Created a front end JS application using React to allow users to send request to the Flask backend and stored the React application in an Amazon S3 bucket. Integrated an AWS Cloudfront distribution also tied to a domain and hosted zone through Amazon Route 53. Web app can be found [here](https://mmaaitrix.com/).
+Collected, cleaned, and created data from UFCStats.com to train a SNN model in predicting the outcomes of UFC fights. Utilized GPT Assistant through the OpenAI API to generate a written analysis of the predicted fight using  feature data and the predicted outcome from our trained model. Wrapped the model in an API using Flask and deployed to Heroku where we could access it. Created a front end JS application using React to allow users to send request to the Flask backend and stored the React application in an Amazon S3 bucket. Integrated an AWS Cloudfront distribution also tied to a domain and hosted zone through Amazon Route 53. Web app can be found [here](https://mmaaitrix.com/).
 
 ![MMAAITRIX](/assets/logo.png)
 
