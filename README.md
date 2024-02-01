@@ -12,7 +12,7 @@
 **Market Intelligence Analyst @ Erickson Senior Living (_Nov 2023 - Present_)**
   - Offer detailed market insights into the feasibility of new community developments
   - Assist in qualitative and quantitative ad hoc analysis
-  - Program surveys for Cosumer Insights research in Qualtrics
+  - Program surveys for Cosumer Insights research using Qualtrics
   - Create visualizations in **Tableau** and **Excel** for storytelling and analysis
   - Developed streamline approach to collect competitor data
 
