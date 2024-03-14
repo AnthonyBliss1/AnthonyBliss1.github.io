@@ -37,6 +37,11 @@ such as Meta, Cisco, Albertsons daily
   - Worked cross-functionally on large scale projects
 
 ## Projects
+### SmartDoc
+**Bubble.io** app that leverages AI to create custom chatbots for users to better understand their documents. Integrated multiple chatflows for different document types. Chat with PDF, DOCX, TXT, or CSV documents up to 80 mb or create Knowledge Bases to provide multiple document context to a chatbot. Built using **Flowise**, **Pinecone**, **OpenAI's API**, **Zep**, and **Render**. Project summary can be found [here](https://anthonybliss1.github.io/SmartDocApp.github.io/)
+
+![SmartDoc](/assets/smartdoc.png)
+
 ### MMA Machine Learning Model and Web Application
 Created multiple web scraping scripts in **Python** to collect data from UFCStats.com and store in MySQL database. Cleaned data and created additional features with **SQL** to train a SNN model in predicting the outcome of UFC fights. Utilized GPT Assistant and Code Interpreter through the OpenAI API to generate a written analysis of the predicted fight using feature data and the predicted outcome from the trained model. Wrapped the model in an API using **Flask** and deployed to Heroku where it could be accessed. Created a front-end JS application using **React** to allow users to send requests to the Flask back-end and was then stored in an Amazon S3 bucket. Integrated an AWS Cloudfront distribution tied to a domain and hosted zone through Amazon Route 53. Web app can be found [here](https://mmaaitrix.com/).
 
