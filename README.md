@@ -38,7 +38,7 @@ such as Meta, Cisco, Albertsons daily
 
 ## Projects
 ### SmartDoc
-**Bubble.io** app that leverages AI to create custom chatbots for users to better understand their documents. Integrated multiple chatflows for different document types. Chat with PDF, DOCX, TXT, or CSV documents up to 80 mb or create Knowledge Bases to provide multiple document context to a chatbot. Built using **Flowise**, **Pinecone**, **OpenAI's API**, **Zep**, and **Render**. Project summary can be found [here](https://anthonybliss1.github.io/SmartDocApp.github.io/)
+**Bubble.io** app that leverages AI to create custom chatbots for users to better understand their documents. Integrated multiple chatflows for different document types. Chat with PDF, DOCX, TXT, or CSV documents up to 120 mb or create Knowledge Bases to provide multiple document context to a chatbot. Built using **Flowise**, **Pinecone**, **OpenAI's API**, **Zep**, and **Render**. Project summary can be found [here](https://anthonybliss1.github.io/SmartDocApp.github.io/)
 
 ![SmartDoc](/assets/smartdoc.png)
 
