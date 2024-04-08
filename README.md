@@ -48,7 +48,7 @@ Created multiple web scraping scripts in **Python** to collect data from UFCStat
 ![MMAAITRIX](/assets/logo.png)
 
 ### P.A.M. (Pricing Automation Module) Application
-Developed and designed an application to assist in sending price quotes to customers. Implemented a plethora of features including validating/activating license keys, data saving, and email customization. The application was built using **Python**. A full product description can be found [here](https://pam.lemonsqueezy.com). 
+Developed and designed an application to assist in sending price quotes to customers. Implemented a plethora of features including validating/activating license keys, data saving, and email customization. The application was built using **Python**. A full product description can be found [here](https://arb.lemonsqueezy.com). 
 
 ![PAM](/assets/PAM.png)
 
