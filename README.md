@@ -43,7 +43,7 @@ such as Meta, Cisco, Albertsons daily
 ![SmartDoc](/assets/smartdoc.png)
 
 ### MMA Machine Learning Model and Web Application
-Created multiple web scraping scripts in **Python** to collect data from UFCStats.com and store in MySQL database. Cleaned data and created additional features with **SQL** to train a SNN model in predicting the outcome of UFC fights. Utilized GPT Assistant and Code Interpreter through the **OpenAI API** to generate a written analysis of the predicted fight using feature data and the predicted outcome from the trained model. Wrapped the model in an API using **Flask** and deployed to Heroku where it could be accessed. Created a front-end JS application using **React** to allow users to send requests to the Flask back-end and was then stored in an Amazon S3 bucket. Integrated an AWS Cloudfront distribution tied to a domain and hosted zone through Amazon Route 53. Web app can be found [here](https://mmaaitrix.com/).
+Created multiple web scraping scripts in **Python** to collect data from UFCStats.com and store in MySQL database. Cleaned data and created additional features with **SQL** to train a SNN model in predicting the outcome of UFC fights. Utilized GPT Assistant and Code Interpreter through the **OpenAI API** to generate a written analysis of the predicted fight using feature data and the predicted outcome from the trained model. Wrapped the model in an API using **Flask** and deployed to Heroku where it could be accessed. Created a front-end JS application using **React** to allow users to send requests to the Flask back-end and was then stored in an Amazon S3 bucket. Integrated an AWS Cloudfront distribution tied to a domain and hosted zone through Amazon Route 53.
 
 ![MMAAITRIX](/assets/logo.png)
 
