@@ -37,13 +37,18 @@ such as Meta, Cisco, Albertsons daily
   - Worked cross-functionally on large scale projects
 
 ## Projects
+### REMI BOT
+REMI BOT is an experimental project utilizing **Anthropic's Claude 3 OPUS** model to visualize and manipulate a data. After a CSV file is provided, the data is inserted into a **MySQL DB** and can be manipulated using **SQL** queries generated from natural language prompts. Visualization code can also be generated via natural language prompt utilizing the **Vega-Altair** python library. Finally, users can prompt Claude with research related questions, leveraging Claude's incredible problem solving abilities. Github repo cna be found [here](https://github.com/AnthonyBliss1/REMI_BOT).
+
+![REMI_BOT](/assets/REMI_BOT.png)
+
 ### AI Agent GUI
-Simple **Python** GUI wrapped around a Langchain Pandas Dataframe Agent and Flowise APIs. It uses natural language to interact with Pandas dataframes through the Pandas Dataframe Agent. Using **Flowise**, users can create RAG Chatbots to interact with documents or webpages. Github repo can be found [here](https://github.com/AnthonyBliss1/AI-Agent-GUI)
+Simple **Python** GUI wrapped around a Langchain Pandas Dataframe Agent and Flowise APIs. It uses natural language to interact with Pandas dataframes through the Pandas Dataframe Agent. Using **Flowise**, users can create RAG Chatbots to interact with documents or webpages. Github repo can be found [here](https://github.com/AnthonyBliss1/AI-Agent-GUI).
 
 ![AI_AGENT](/assets/ai_agent.png)
 
 ### SmartDoc
-**Bubble.io** app that leverages AI to create custom chatbots for users to better understand their documents. Integrated multiple chatflows for different document types. Chat with PDF, DOCX, TXT, or CSV documents up to 120 mb or create Knowledge Bases to provide multiple document context to a chatbot. Built using **Flowise**, **Pinecone**, **OpenAI's API**, **Zep**, and **Render**. Project summary can be found [here](https://anthonybliss1.github.io/SmartDocApp.github.io/)
+**Bubble.io** app that leverages AI to create custom chatbots for users to better understand their documents. Integrated multiple chatflows for different document types. Chat with PDF, DOCX, TXT, or CSV documents up to 120 mb or create Knowledge Bases to provide multiple document context to a chatbot. Built using **Flowise**, **Pinecone**, **OpenAI's API**, **Zep**, and **Render**. Project summary can be found [here](https://anthonybliss1.github.io/SmartDocApp.github.io/).
 
 ![SmartDoc](/assets/smartdoc.png)
 
