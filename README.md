@@ -37,6 +37,11 @@ such as Meta, Cisco, Albertsons daily
   - Worked cross-functionally on large scale projects
 
 ## Projects
+### AI Agent GUI
+Simple **Python** GUI wrapped around a Langchain Pandas Dataframe Agent and Flowise APIs. It uses natural language to interact with Pandas dataframes through the Pandas Dataframe Agent. Using **Flowise**, users can create RAG Chatbots to interact with documents or webpages. Github repo can be found [here](https://github.com/AnthonyBliss1/AI-Agent-GUI)
+
+![AI_AGENT](/assets/ai_agent.png)
+
 ### SmartDoc
 **Bubble.io** app that leverages AI to create custom chatbots for users to better understand their documents. Integrated multiple chatflows for different document types. Chat with PDF, DOCX, TXT, or CSV documents up to 120 mb or create Knowledge Bases to provide multiple document context to a chatbot. Built using **Flowise**, **Pinecone**, **OpenAI's API**, **Zep**, and **Render**. Project summary can be found [here](https://anthonybliss1.github.io/SmartDocApp.github.io/)
 
