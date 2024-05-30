@@ -38,7 +38,7 @@ such as Meta, Cisco, Albertsons daily
 
 ## Projects
 ### REMI BOT
-REMI BOT is an experimental project utilizing **Anthropic's Claude 3 OPUS** model to visualize and manipulate a data. After a CSV file is provided, the data is inserted into a **MySQL DB** and can be manipulated using **SQL** queries generated from natural language prompts. Visualization code can also be generated via natural language prompt utilizing the **Vega-Altair** python library. Finally, users can prompt Claude with research related questions, leveraging Claude's incredible problem solving abilities. Github repo cna be found [here](https://github.com/AnthonyBliss1/REMI_BOT).
+REMI BOT is an experimental project utilizing **Anthropic's Claude 3 OPUS** model to visualize and manipulate a data. After a CSV file is provided, the data is inserted into a **MySQL DB** and can be manipulated using **SQL** queries generated from natural language prompts. Visualization code can also be generated, utilizing the **Vega-Altair** python library. Finally, users can prompt Claude with research related questions, leveraging Claude's incredible problem solving abilities. Github repo can be found [here](https://github.com/AnthonyBliss1/REMI_BOT).
 
 ![REMI_BOT](/assets/REMI_BOT.png)
 
