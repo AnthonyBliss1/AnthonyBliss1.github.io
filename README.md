@@ -1,6 +1,6 @@
 # Analyst
 
-#### Technical Skills: Microsoft Excel, SQL, Python, Tableau, Amazon Web Services (AWS)
+#### Technical Skills: Amazon Web Services (AWS), AI/ML Systems, Python, SQL, Tableau, Microsoft Excel
 
 ## Education
   - B.A. Economics | University of Maryland, Baltimore County
@@ -11,7 +11,7 @@
 ## Work Experience
 **Market Intelligence Analyst @ Erickson Senior Living (_Nov 2023 - Present_)**
   - Communicate market positioning updates to Executive Leadership Team
-  - Conduct detailed market insights into the feasibility of new community developments
+  - Conduct detailed market insights to assess the feasibility of new community developments
   - Assist in qualitative and quantitative ad hoc analysis
   - Program surveys for Consumer Insight research using Qualtrics
   - Create visualizations in **Tableau** and **Excel** for storytelling and analysis
@@ -39,7 +39,7 @@ such as Meta, Cisco, Albertsons daily
 
 ## Projects
 ### REMI BOT
-REMI BOT is an experimental project utilizing **Anthropic's Claude 3 OPUS** model to visualize and manipulate data. After a CSV file is provided, the data is inserted into a **MySQL DB** and can be manipulated using **SQL** queries generated from natural language prompts. Visualization code can also be generated, utilizing the **Vega-Altair** python library. Finally, users can prompt Claude with research related questions, leveraging Claude's incredible problem solving abilities. Github repo can be found [here](https://github.com/AnthonyBliss1/REMI_BOT).
+REMI BOT is an experimental project utilizing **Anthropic's Claude 3 Opus** model to visualize and manipulate data. After a CSV file is provided, the data is inserted into a **MySQL DB** and can be manipulated using **SQL** queries generated from natural language prompts. Visualization code can also be generated, utilizing the **Vega-Altair** python library. Finally, users can prompt Claude with research related questions, leveraging Claude's incredible problem solving capabilities. Github repo can be found [here](https://github.com/AnthonyBliss1/REMI_BOT).
 
 ![REMI_BOT](/assets/REMI_BOT.png)
 
@@ -54,12 +54,12 @@ Simple **Python** GUI wrapped around a Langchain Pandas Dataframe Agent and Flow
 ![SmartDoc](/assets/smartdoc.png)
 
 ### MMA Machine Learning Model and Web Application
-Created multiple web scraping scripts in **Python** to collect data from UFCStats.com and store in MySQL database. Cleaned data and created additional features with **SQL** to train a SNN model in predicting the outcome of UFC fights. Utilized GPT Assistant and Code Interpreter through the **OpenAI API** to generate a written analysis of the predicted fight using feature data and the predicted outcome from the trained model. Wrapped the model in **Flask** application and deployed to Heroku where it could be accessed. Created a front-end JS application using **React** to allow users to send requests to the Flask back-end and was then stored in an Amazon S3 bucket. Integrated an AWS Cloudfront distribution tied to a domain and hosted zone through Amazon Route 53.
+Created multiple web scraping scripts in **Python** to collect data from UFCStats.com and store in MySQL database. Cleaned data and created additional features with **SQL** to train a SNN model in predicting the outcome of UFC fights. Utilized GPT Assistant and Code Interpreter through the **OpenAI API** to generate a written analysis of the predicted fight using feature data and the predicted outcome from the trained model. Wrapped the model within a **Flask** application and deployed to Heroku where it could be accessed. Created a front-end JS application using **React** to allow users to send requests to the Flask back-end and was then stored in an Amazon S3 bucket. Integrated an AWS Cloudfront distribution tied to a domain and hosted zone through Amazon Route 53.
 
 ![MMAAITRIX](/assets/logo.png)
 
 ### P.A.M. (Pricing Automation Module) Application
-Developed and designed an application to assist in sending price quotes to customers. Implemented a plethora of features including validating/activating license keys, data saving, and email customization. The application was built using **Python**. A full product description can be found [here](https://arb.lemonsqueezy.com). 
+Developed and designed an application to assist in sending price quotes to customers. Implemented a plethora of features including customer profile creation, data saving, and email customization. The application was built using **Python**. A full product description can be found [here](https://arb.lemonsqueezy.com). 
 
 ![PAM](/assets/PAM.png)
 
