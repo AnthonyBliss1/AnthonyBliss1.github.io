@@ -6,6 +6,7 @@
   - B.A. Economics | University of Maryland, Baltimore County
 
 ## Certifications
+  - AWS Certified Cloud Practitioner
   - Tableau Desktop Specialist
 
 ## Work Experience
