@@ -39,7 +39,7 @@ such as Meta, Cisco, Albertsons daily
 
 ## Projects
 ### Poker AI
-Creates a poker game between three LLMs: GPT 4o, Claude Opus, and Claude Sonnet. Models are prompted with defined personalities and will make decisions based on personality traits. Models have an opportunity to communicate in a chat while playing and can communicate outside of their turn.
+Creates a poker game between three LLMs: GPT 4o, Claude Opus, and Claude Sonnet. Models are prompted with defined personalities and will make decisions based on personality traits. Models have an opportunity to communicate in the chat and can communicate outside of their turn.
 
 ### REMI BOT
 REMI BOT is an experimental project utilizing **Anthropic's Claude 3 Opus** model to visualize and manipulate data. After a CSV file is provided, the data is inserted into a **MySQL DB** and can be manipulated using **SQL** queries generated from natural language prompts. Visualization code can also be generated, utilizing the **Vega-Altair** python library. Finally, users can prompt Claude with research related questions, leveraging Claude's incredible problem solving capabilities. Github repo can be found [here](https://github.com/AnthonyBliss1/REMI_BOT).
