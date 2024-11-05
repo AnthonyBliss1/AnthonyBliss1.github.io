@@ -39,6 +39,10 @@ such as Meta, Cisco, Albertsons daily
   - Worked cross-functionally on large scale projects
 
 ## Projects
+
+### Eggventure Hunt
+Virtual Easter Egg Hunt project for family. Nginx web server running on VPS by Digital Ocean, Amazon Route 53 for DNS, Github webhooks configured to assists with pull requests. Built with PHP and JS. Project is still under development but can be found [here] (https://eggventurehunt.com).
+
 ### Poker AI
 Creates a poker game between three LLMs: GPT 4o, Claude Opus, and Claude Sonnet. Models are prompted with defined personalities and will make decisions based on personality traits. Models have an opportunity to communicate in the chat and can communicate outside of their turn.
 
