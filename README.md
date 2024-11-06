@@ -16,7 +16,7 @@
   - Assist in qualitative and quantitative ad hoc analysis
   - Program surveys for Consumer Insight research using Qualtrics
   - Create visualizations in **Tableau** and **Excel** for storytelling and analysis
-  - Developed streamline approach to collect competitor data
+  - Build large scale **Excel** workbooks from **Salesforce** reports for resident data analysis
 
 **Operations Analyst @ Standard Petroleum Logistics (_Sept 2022 - Nov 2023_)**
   - Created fully automated cloud solution for tracking and analyzing trailer pressure readings
