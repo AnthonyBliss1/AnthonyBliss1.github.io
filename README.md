@@ -1,6 +1,6 @@
 # Analyst
 
-#### Technical Skills: Amazon Web Services (AWS), AI/ML Systems, Python, SQL, Tableau, Microsoft Excel
+#### Technical Skills: Amazon Web Services (AWS), Python, SQL, Tableau, Microsoft Excel
 
 ## Education
   - B.A. Economics | University of Maryland, Baltimore County
