@@ -41,10 +41,10 @@ such as Meta, Cisco, Albertsons daily
 ## Projects
 
 ### Eggventure Hunt
-Virtual Easter Egg Hunt project for family. **Nginx** web server running on **VPS** by Digital Ocean, **Amazon Route 53** for DNS, **Github webhooks** configured to assists with pull requests. Rate limiting, DNS-level, Network-level, and Server-level Firewall for improved security. Built with **PHP** and **JS**. Project is still under development but can be found [here](https://eggventurehunt.com).
+Virtual Easter Egg Hunt project for family. Nginx web server running on VPS by Digital Ocean, Amazon Route 53 for DNS, Github webhooks configured to assists with pull requests. Built with PHP and JS. Project is still under development but can be found [here](https://eggventurehunt.com).
 
 ### Poker AI
-Creates a poker game between three LLMs: **GPT 4o**, **Claude Opus**, and **Claude Sonnet**. Models are prompted with defined personalities and will make decisions based on personality traits. Models have an opportunity to communicate in the chat and can communicate outside of their turn. Github repo can be found [here](https://github.com/AnthonyBliss1/AFriendInNeed.git).
+Creates a poker game between three LLMs: GPT 4o, Claude Opus, and Claude Sonnet. Models are prompted with defined personalities and will make decisions based on personality traits. Models have an opportunity to communicate in the chat and can communicate outside of their turn.
 
 ### REMI BOT
 REMI BOT is an experimental project utilizing **Anthropic's Claude 3 Opus** model to visualize and manipulate data. After a CSV file is provided, the data is inserted into a **MySQL DB** and can be manipulated using **SQL** queries generated from natural language prompts. Visualization code can also be generated, utilizing the **Vega-Altair** python library. Finally, users can prompt Claude with research related questions, leveraging Claude's incredible problem solving capabilities. Github repo can be found [here](https://github.com/AnthonyBliss1/REMI_BOT).
